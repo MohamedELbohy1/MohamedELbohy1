@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Mohamed ELbohy</h1>
 
 <h3 align="center">
-🎓 Final Year Computer Engineering Student <br>
 💻 Full Stack Web Developer | MERN Stack Enthusiast <br>
 </h3>
 
@@ -9,7 +8,7 @@
  
 ### 🚀 About Me
 
-🔧 I'm a passionate final-year Computer Engineering student at Mansoura University.  
+🔧 I am a Computer Engineering graduate from Mansoura University
 💡 Enthusiastic about building modern full-stack web applications.  
 🧠 Always learning new technologies and improving my skills.  
 🛠 Currently focused on enhancing personal projects and preparing for career growth in tech.
